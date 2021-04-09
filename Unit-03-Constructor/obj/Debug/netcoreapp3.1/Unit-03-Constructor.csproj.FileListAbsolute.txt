@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.exe
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.deps.json
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.dll
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\bin\Debug\netcoreapp3.1\Unit-03-Constructor.pdb
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.dll
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.pdb
+D:\EDUCATIVE-IO\C#\Unit-03-Constructor\obj\Debug\netcoreapp3.1\Unit-03-Constructor.genruntimeconfig.cache

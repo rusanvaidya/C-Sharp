@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.exe
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.deps.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.dll
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\bin\Debug\netcoreapp3.1\Unit-04-Inheritance.pdb
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.dll
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.pdb
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance\obj\Debug\netcoreapp3.1\Unit-04-Inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.exe
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.deps.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.dll
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\bin\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.pdb
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.dll
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.pdb
+D:\EDUCATIVE-IO\C#\Unit-04-Inheritance-BaseKeyword\obj\Debug\netcoreapp3.1\Unit-04-Inheritance-BaseKeyword.genruntimeconfig.cache

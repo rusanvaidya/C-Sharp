@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.exe
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.deps.json
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.dll
+D:\EDUCATIVE-IO\C#\Unit-02_2\bin\Debug\netcoreapp3.1\Unit-02_2.pdb
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.dll
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.pdb
+D:\EDUCATIVE-IO\C#\Unit-02_2\obj\Debug\netcoreapp3.1\Unit-02_2.genruntimeconfig.cache

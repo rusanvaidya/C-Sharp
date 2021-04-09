@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.exe
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.deps.json
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.dll
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\bin\Debug\netcoreapp3.1\Unit-06-Abstraction.pdb
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.dll
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.pdb
+D:\EDUCATIVE-IO\C#\Unit-06-Abstraction\obj\Debug\netcoreapp3.1\Unit-06-Abstraction.genruntimeconfig.cache

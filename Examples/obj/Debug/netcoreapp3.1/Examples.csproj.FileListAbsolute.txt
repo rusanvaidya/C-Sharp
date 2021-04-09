@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.exe
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.deps.json
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.dll
+D:\EDUCATIVE-IO\C#\Examples\bin\Debug\netcoreapp3.1\Examples.pdb
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.dll
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.pdb
+D:\EDUCATIVE-IO\C#\Examples\obj\Debug\netcoreapp3.1\Examples.genruntimeconfig.cache

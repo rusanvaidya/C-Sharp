@@ -1,0 +1,13 @@
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.exe
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.deps.json
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.runtimeconfig.json
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.runtimeconfig.dev.json
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.dll
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\bin\Debug\netcoreapp3.1\Exercise_02_Constructor.pdb
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.csprojAssemblyReference.cache
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.AssemblyInfoInputs.cache
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.AssemblyInfo.cs
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.csproj.CoreCompileInputs.cache
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.dll
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.pdb
+D:\EDUCATIVE-IO\C#\Exercise_02_Constructor\obj\Debug\netcoreapp3.1\Exercise_02_Constructor.genruntimeconfig.cache
